@@ -14,3 +14,5 @@
 ^stat(s|istics)?[0-9]*[-.]
 ^track(ers?|ing)?[0-9]*[-.]
 ^traff(ic)?[-.]
+(ads|logs|cloudservices).roku.com$
+(ads|captive|logs).roku.com$
