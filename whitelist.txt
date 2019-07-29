@@ -158,6 +158,7 @@ s.gateway.messenger.live.com
 sharepoint.com
 skyhook.sonarr.tv
 s.marketwatch.com
+smartasset.com
 spclient.wg.spotify.com
 s.shopify.com
 ssl.p.jwpcdn.com
@@ -206,4 +207,3 @@ xsts.auth.xboxlive.com
 youtu.be
 youtube-nocookie.com
 yt3.ggpht.com
-smartasset.com
