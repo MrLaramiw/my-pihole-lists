@@ -178,6 +178,7 @@ title.auth.xboxlive.com
 title.mgt.xboxlive.com
 tomshardware.com
 traffic.libsyn.com
+traffic.megaphone.fm
 tvdb2.plex.tv
 tvthemes.plexapp.com
 twimg.com
@@ -207,4 +208,3 @@ xsts.auth.xboxlive.com
 youtu.be
 youtube-nocookie.com
 yt3.ggpht.com
-traffic.megaphone.fm
