@@ -177,6 +177,7 @@ tinyurl.com
 title.auth.xboxlive.com
 title.mgt.xboxlive.com
 tomshardware.com
+track-registry.theknot.com
 traffic.libsyn.com
 traffic.megaphone.fm
 tvdb2.plex.tv
@@ -208,4 +209,3 @@ xsts.auth.xboxlive.com
 youtu.be
 youtube-nocookie.com
 yt3.ggpht.com
-track-registry.theknot.com
