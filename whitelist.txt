@@ -2,6 +2,7 @@
 1337x.to
 1drv.com
 2.android.pool.ntp.org
+ads-e-darwin.hulustream.com
 adserver.pandora.com
 akamaihd.net
 akamaitechnologies.com
@@ -209,4 +210,3 @@ xsts.auth.xboxlive.com
 youtu.be
 youtube-nocookie.com
 yt3.ggpht.com
-ads-e-darwin.hulustream.com
