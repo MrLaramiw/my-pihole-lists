@@ -28,6 +28,7 @@ brightcove.net
 bufferapp.com
 cdn2.optimizely.com
 cdn3.optimizely.com
+cdn.bibblio.org
 cdn.cloudflare.net
 cdn.embedly.com
 cdnjs.cloudflare.com
@@ -210,4 +211,3 @@ xsts.auth.xboxlive.com
 youtu.be
 youtube-nocookie.com
 yt3.ggpht.com
-cdn.bibblio.org
